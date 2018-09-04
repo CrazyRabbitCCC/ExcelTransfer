@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Excel转换工具</string>
+    <string name="tab_text_1">输入</string>
+    <string name="tab_text_2">输出</string>
+    <string name="tab_text_3">设置</string>
+    <string name="action_settings">设置</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
